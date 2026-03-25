@@ -18,6 +18,14 @@ I am focusing on understanding concepts and writing code on my own.
 
 ---
 
+### Day 3:
+- Variables
+- Data types
+- type() function
+- List and Tuple basics
+
+---
+
 ## 🧠 Key Learnings
 - Code executes line by line
 - Clean code matters
@@ -28,3 +36,7 @@ I am focusing on understanding concepts and writing code on my own.
 ## 🎯 Goal
 - Build strong basics
 - Become job-ready step by step
+
+---
+
+
