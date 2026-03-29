@@ -28,13 +28,13 @@ I am focusing on understanding concepts and writing code on my own.
 
 ---
 
-### ✅ Day 4: Operators & Calculator
+### Day 4: Operators & Calculator
 - Arithmetic operators (+, -, *, /, %, //, **)
 - Basic calculator program
 
 ---
 
-### ✅ Day 5: Typecasting
+### Day 5: Typecasting
 - Explicit type conversion
 - Implicit type conversion
 
