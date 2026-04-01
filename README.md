@@ -48,6 +48,16 @@ I am focusing on understanding concepts and writing code on my own.
 
 ---
 
+### ✅ Day 7: Strings
+- String basics
+- Multiline strings
+- String indexing
+- Iterating through string using loop
+- String slicing
+- Negative slicing
+- len() function
+
+---
 
 ## 🧠 Key Learnings
 - Code executes line by line
